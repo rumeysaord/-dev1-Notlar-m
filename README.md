@@ -1,2 +1,1 @@
-# Ödev1-Notlarım #
-Google Oyun ve Uygulama Akademisi GitHub ödevi 
+Google Oyun ve Uygulama Akademisi GitHub görevi
